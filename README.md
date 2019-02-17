@@ -1,6 +1,5 @@
 # ecobox
 ### Business website template PSD Mockup conversion to Responsive Bootstrap Website
-### Welcome
 
 ### This repository contains my work: 
 Live Demo of the website is hosted on GitHub Pages. 
